@@ -2,7 +2,7 @@
 
 An academic presentation website exploring the *Thresholds* special issue on Generative AI in higher education.
 
-**Presenters:** Jasmine Reece & Eryn Shorthill
+**Presenters:** Jasmine Reece & Eryn Paradise Shorthill
 **Journal:** Thresholds in Education, Vol. 48, Issue 1 (Winter 2025)
 **Guest Editors:** Marc Watkins & Stephen Monroe (University of Mississippi)
 
