@@ -119,6 +119,7 @@ function setupMobileMenu() {
 // Setup dropdown functionality
 function setupDropdowns() {
   const dropdowns = document.querySelectorAll('.dropdown');
+  let closeTimeout;
 
   dropdowns.forEach(dropdown => {
     const toggle = dropdown.querySelector('.dropdown-toggle');
@@ -146,13 +147,20 @@ function setupDropdowns() {
 
     // Hover for desktop (in addition to click)
     dropdown.addEventListener('mouseenter', function() {
+      // Clear any pending close timeout
+      if (closeTimeout) {
+        clearTimeout(closeTimeout);
+      }
       dropdown.classList.add('active');
       toggle.setAttribute('aria-expanded', 'true');
     });
 
     dropdown.addEventListener('mouseleave', function() {
-      dropdown.classList.remove('active');
-      toggle.setAttribute('aria-expanded', 'false');
+      // Add a small delay before closing to allow moving to the menu
+      closeTimeout = setTimeout(function() {
+        dropdown.classList.remove('active');
+        toggle.setAttribute('aria-expanded', 'false');
+      }, 200);
     });
   });
 
