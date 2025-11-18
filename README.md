@@ -8,7 +8,7 @@ An academic presentation website exploring the *Thresholds* special issue on Gen
 
 ## About This Site
 
-This website presents an analysis of the *Thresholds* special issue examining how writing and composition classrooms are navigating generative AI technologies. The site explores key themes, article summaries, and critical perspectives on AI in education.
+This website presents an analysis of the *Thresholds in Education* special issue examining how writing and composition classrooms are navigating generative AI technologies. The site explores key themes, article summaries, and critical perspectives on AI in education.
 
 ## Site Structure
 
