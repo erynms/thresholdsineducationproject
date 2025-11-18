@@ -70,7 +70,7 @@ function insertNavigation() {
 function insertFooter() {
   const footerHTML = `
     <footer>
-      <p>&copy; 2025 Thresholds in Education. Presentation by Jasmine Reece & Eryn Paradise Shorthill.</p>
+      <p>&copy; 2025 Thresholds in Education. Presentation by Jasmine Reese & Eryn Paradise Shorthill.</p>
       <p>Special Issue: Vol. 48, Issue 1 (Winter 2025) - Guest Editors: Marc Watkins & Stephen Monroe</p>
     </footer>
   `;

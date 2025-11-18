@@ -328,7 +328,7 @@ If you run into issues or have questions:
 1. **Check the existing completed articles** (`nelson.html`, `velez.html`, etc.) for examples
 2. **Review the HTML comments** in the placeholder files for guidance
 3. **Contact the site maintainers:**
-   - Jasmine Reece: [contact]
+   - Jasmine Reese: [contact]
    - Eryn Paradise Shorthill: [contact]
 
 ---
