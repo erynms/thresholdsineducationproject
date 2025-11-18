@@ -17,46 +17,46 @@ function insertNavigation() {
   const navHTML = `
     <nav>
       <div class="nav-container">
-        <a href="/index.html" class="nav-title">Thresholds: GenAI in Education</a>
+        <a href="/thresholdsineducationproject/index.html" class="nav-title">Thresholds: GenAI in Education</a>
         <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
           ☰
         </button>
         <ul class="nav-menu">
           <li class="nav-item">
-            <a href="/index.html" class="nav-link">Home</a>
+            <a href="/thresholdsineducationproject/index.html" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
-            <a href="/about.html" class="nav-link">About the Issue</a>
+            <a href="/thresholdsineducationproject/about.html" class="nav-link">About the Issue</a>
           </li>
           <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle" aria-haspopup="true" aria-expanded="false">Key Themes</a>
             <ul class="dropdown-menu">
-              <li><a href="/themes/detection-engagement.html">Detection to Critical Engagement</a></li>
-              <li><a href="/themes/agency-voice.html">Agency, Voice & Authorship</a></li>
-              <li><a href="/themes/transparency-surveillance.html">Transparency Over Surveillance</a></li>
+              <li><a href="/thresholdsineducationproject/themes/detection-engagement.html">Detection to Critical Engagement</a></li>
+              <li><a href="/thresholdsineducationproject/themes/agency-voice.html">Agency, Voice & Authorship</a></li>
+              <li><a href="/thresholdsineducationproject/themes/transparency-surveillance.html">Transparency Over Surveillance</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle" aria-haspopup="true" aria-expanded="false">Articles</a>
             <ul class="dropdown-menu">
-              <li><a href="/articles/nelson.html">Nelson et al. - Collaborative Intelligence</a></li>
-              <li><a href="/articles/velez.html">Velez et al. - Black Boxes Revisited</a></li>
-              <li><a href="/articles/krueger.html">Krueger - Rhetorical Choices & Voice</a></li>
-              <li><a href="/articles/uanachain-aouad.html">Uanachain & Aouad - Rethinking Learning & Assessment</a></li>
-              <li><a href="/articles/placeholder-5.html">Article 5 (Coming Soon)</a></li>
-              <li><a href="/articles/placeholder-6.html">Article 6 (Coming Soon)</a></li>
-              <li><a href="/articles/placeholder-7.html">Article 7 (Coming Soon)</a></li>
-              <li><a href="/articles/placeholder-8.html">Article 8 (Coming Soon)</a></li>
+              <li><a href="/thresholdsineducationproject/articles/nelson.html">Nelson et al. - Collaborative Intelligence</a></li>
+              <li><a href="/thresholdsineducationproject/articles/velez.html">Velez et al. - Black Boxes Revisited</a></li>
+              <li><a href="/thresholdsineducationproject/articles/krueger.html">Krueger - Rhetorical Choices & Voice</a></li>
+              <li><a href="/thresholdsineducationproject/articles/uanachain-aouad.html">Uanachain & Aouad - Rethinking Learning & Assessment</a></li>
+              <li><a href="/thresholdsineducationproject/articles/placeholder-5.html">Article 5 (Coming Soon)</a></li>
+              <li><a href="/thresholdsineducationproject/articles/placeholder-6.html">Article 6 (Coming Soon)</a></li>
+              <li><a href="/thresholdsineducationproject/articles/placeholder-7.html">Article 7 (Coming Soon)</a></li>
+              <li><a href="/thresholdsineducationproject/articles/placeholder-8.html">Article 8 (Coming Soon)</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a href="/analysis.html" class="nav-link">Analysis & Synthesis</a>
+            <a href="/thresholdsineducationproject/analysis.html" class="nav-link">Analysis & Synthesis</a>
           </li>
           <li class="nav-item">
-            <a href="/questions.html" class="nav-link">Open Questions</a>
+            <a href="/thresholdsineducationproject/questions.html" class="nav-link">Open Questions</a>
           </li>
           <li class="nav-item">
-            <a href="/references.html" class="nav-link">References</a>
+            <a href="/thresholdsineducationproject/references.html" class="nav-link">References</a>
           </li>
         </ul>
       </div>
