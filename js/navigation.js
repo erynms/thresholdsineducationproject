@@ -119,7 +119,7 @@ function setupMobileMenu() {
 // Setup dropdown functionality
 function setupDropdowns() {
   const dropdowns = document.querySelectorAll('.dropdown');
-  let closeTimeout;
+  const dropdownTimeouts = new WeakMap(); // Store separate timeout for each dropdown
 
   dropdowns.forEach(dropdown => {
     const toggle = dropdown.querySelector('.dropdown-toggle');
@@ -147,9 +147,11 @@ function setupDropdowns() {
 
     // Hover for desktop (in addition to click)
     dropdown.addEventListener('mouseenter', function() {
-      // Clear any pending close timeout
-      if (closeTimeout) {
-        clearTimeout(closeTimeout);
+      // Clear any pending close timeout for THIS dropdown
+      const timeout = dropdownTimeouts.get(dropdown);
+      if (timeout) {
+        clearTimeout(timeout);
+        dropdownTimeouts.delete(dropdown);
       }
       dropdown.classList.add('active');
       toggle.setAttribute('aria-expanded', 'true');
@@ -157,10 +159,11 @@ function setupDropdowns() {
 
     dropdown.addEventListener('mouseleave', function() {
       // Add a small delay before closing to allow moving to the menu
-      closeTimeout = setTimeout(function() {
+      const timeout = setTimeout(function() {
         dropdown.classList.remove('active');
         toggle.setAttribute('aria-expanded', 'false');
       }, 200);
+      dropdownTimeouts.set(dropdown, timeout);
     });
   });
 
