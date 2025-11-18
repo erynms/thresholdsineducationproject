@@ -341,6 +341,71 @@ article {
   text-decoration: none;
 }
 
+/* Article Navigation Buttons */
+.article-navigation {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--light-gray);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.article-navigation .nav-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--teal-accent);
+  color: var(--white);
+  text-decoration: none;
+  border-radius: 4px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.article-navigation .nav-button:hover {
+  background-color: var(--primary-navy);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.article-navigation .nav-button:focus {
+  outline: 2px solid var(--teal-accent);
+  outline-offset: 3px;
+}
+
+.article-navigation .prev-article {
+  margin-right: auto;
+}
+
+.article-navigation .next-article {
+  margin-left: auto;
+}
+
+/* When only one button exists, center it if needed */
+.article-navigation .nav-button:only-child {
+  margin: 0 auto;
+}
+
+/* Responsive article navigation */
+@media (max-width: 600px) {
+  .article-navigation {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .article-navigation .nav-button {
+    width: 100%;
+    text-align: center;
+  }
+
+  .article-navigation .prev-article,
+  .article-navigation .next-article {
+    margin: 0;
+  }
+}
+
 /* Placeholder Article Styles */
 .placeholder {
   background-color: var(--light-gray);
