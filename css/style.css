@@ -73,7 +73,7 @@ p {
 
 a {
   color: var(--teal-accent);
-  text-decoration: none;
+  text-decoration: underline;
   transition: color 0.3s ease;
 }
 
@@ -139,6 +139,7 @@ nav {
   font-weight: 400;
   transition: background-color 0.3s ease;
   border-radius: 4px;
+  text-decoration: none;
 }
 
 .nav-link:hover {
@@ -192,6 +193,7 @@ nav {
   display: block;
   font-family: 'Lato', sans-serif;
   transition: background-color 0.3s ease;
+  text-decoration: none;
 }
 
 .dropdown-menu a:hover {
