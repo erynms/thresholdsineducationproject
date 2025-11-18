@@ -39,6 +39,7 @@ function insertNavigation() {
           <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle" aria-haspopup="true" aria-expanded="false">Articles</a>
             <ul class="dropdown-menu">
+              <li><a href="/thresholdsineducationproject/articles/watkins-monroe.html">Watkins & Monroe - Introduction</a></li>
               <li><a href="/thresholdsineducationproject/articles/li.html">Li - Collaborative Annotation</a></li>
               <li><a href="/thresholdsineducationproject/articles/blackwell-starnes.html">Blackwell-Starnes - Student Agency with GenAI</a></li>
               <li><a href="/thresholdsineducationproject/articles/ryan.html">Ryan et al. - AI as Co-Author</a></li>
@@ -46,7 +47,6 @@ function insertNavigation() {
               <li><a href="/thresholdsineducationproject/articles/velez.html">Velez et al. - Black Boxes Revisited</a></li>
               <li><a href="/thresholdsineducationproject/articles/krueger.html">Krueger - Rhetorical Choices & Voice</a></li>
               <li><a href="/thresholdsineducationproject/articles/uanachain-aouad.html">Uanachain & Aouad - Rethinking Learning & Assessment</a></li>
-              <li><a href="/thresholdsineducationproject/articles/placeholder-8.html">Article 8 (Coming Soon)</a></li>
             </ul>
           </li>
           <li class="nav-item">
