@@ -71,7 +71,7 @@ function insertFooter() {
   const footerHTML = `
     <footer>
       <p>&copy; 2025 Thresholds in Education. Presentation by Jasmine Reese & Eryn Paradise Shorthill.</p>
-      <p>Special Issue: Vol. 48, Issue 1 (Winter 2025) - Guest Editors: Marc Watkins & Stephen Monroe</p>
+      <p>Special Issue: <a href="https://academyforeducationalstudies.org/journals/thresholds/thresholds-current-issues/volume-48-issue-1-winter-2025/" target="_blank" rel="noopener" style="color: #E8F3F1;">Vol. 48, Issue 1 (Winter 2025)</a> - Guest Editors: Marc Watkins & Stephen Monroe</p>
     </footer>
   `;
 
