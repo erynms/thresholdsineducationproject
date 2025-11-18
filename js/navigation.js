@@ -39,13 +39,13 @@ function insertNavigation() {
           <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle" aria-haspopup="true" aria-expanded="false">Articles</a>
             <ul class="dropdown-menu">
+              <li><a href="/thresholdsineducationproject/articles/li.html">Li - Collaborative Annotation</a></li>
+              <li><a href="/thresholdsineducationproject/articles/blackwell-starnes.html">Blackwell-Starnes - Student Agency with GenAI</a></li>
+              <li><a href="/thresholdsineducationproject/articles/ryan.html">Ryan et al. - AI as Co-Author</a></li>
               <li><a href="/thresholdsineducationproject/articles/nelson.html">Nelson et al. - Collaborative Intelligence</a></li>
               <li><a href="/thresholdsineducationproject/articles/velez.html">Velez et al. - Black Boxes Revisited</a></li>
               <li><a href="/thresholdsineducationproject/articles/krueger.html">Krueger - Rhetorical Choices & Voice</a></li>
               <li><a href="/thresholdsineducationproject/articles/uanachain-aouad.html">Uanachain & Aouad - Rethinking Learning & Assessment</a></li>
-              <li><a href="/thresholdsineducationproject/articles/placeholder-5.html">Article 5 (Coming Soon)</a></li>
-              <li><a href="/thresholdsineducationproject/articles/placeholder-6.html">Article 6 (Coming Soon)</a></li>
-              <li><a href="/thresholdsineducationproject/articles/placeholder-7.html">Article 7 (Coming Soon)</a></li>
               <li><a href="/thresholdsineducationproject/articles/placeholder-8.html">Article 8 (Coming Soon)</a></li>
             </ul>
           </li>
