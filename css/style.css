@@ -93,6 +93,7 @@ a.citation {
   text-decoration: underline;
   font-size: inherit;
   font-family: inherit;
+  font-style: normal;
 }
 
 a.citation:hover {
