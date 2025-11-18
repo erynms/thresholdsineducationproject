@@ -218,8 +218,9 @@ nav {
 
 /* Main Content Container */
 main {
-  margin-top: 60px;
+  margin-top: 70px;
   min-height: calc(100vh - 200px);
+  padding-top: 1.5rem;
 }
 
 .container {
