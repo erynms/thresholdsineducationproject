@@ -157,7 +157,7 @@ The site includes:
 
 For questions about this project:
 - Jasmine Reece: [contact information]
-- Eryn Shorthll: [contact information]
+- Eryn Paradise Shorthill: [contact information]
 
 ## License
 

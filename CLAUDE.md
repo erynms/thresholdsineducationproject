@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a **GitHub Pages website** presenting an academic analysis of the *Thresholds in Education* special issue on Generative AI in higher education (Vol. 48, Issue 1, Winter 2025).
 
-**Presenters:** Jasmine Reece & Eryn Shorthll
+**Presenters:** Jasmine Reece & Eryn Paradise Shorthill
 **Technology:** Plain HTML/CSS/JavaScript (no build process)
 **Hosting:** GitHub Pages
 
