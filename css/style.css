@@ -269,7 +269,7 @@ main {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(232, 243, 241, 0.88);
+  background: rgba(255, 255, 255, 0.5);
   z-index: 1;
 }
 
@@ -281,21 +281,24 @@ main {
 .hero h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: var(--primary-navy);
+  color: #000000;
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.9);
 }
 
 .hero .subtitle {
   font-size: 1.5rem;
-  color: var(--teal-accent);
+  color: var(--primary-navy);
   font-family: 'Lato', sans-serif;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.9);
 }
 
 .hero .authors {
   font-size: 1.1rem;
-  color: var(--dark-text);
+  color: #000000;
   font-style: italic;
   margin-bottom: 2rem;
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.9);
 }
 
 /* Content Sections */
