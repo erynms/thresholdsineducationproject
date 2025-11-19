@@ -1,82 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" style="font-family: 'Lato', sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
   <!-- Background -->
   <rect width="900" height="600" fill="#FFFFFF"/>
 
   <!-- Title -->
-  <text x="450" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#2C5F7C">
+  <text x="450" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#2C5F7C" font-family="Arial, sans-serif">
     How Articles Address the Three Key Themes
   </text>
 
   <!-- Column Headers (Themes) -->
-  <text x="300" y="70" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C">Detection to</text>
-  <text x="300" y="87" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C">Critical Engagement</text>
+  <text x="300" y="70" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C" font-family="Arial, sans-serif">Detection to</text>
+  <text x="300" y="87" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C" font-family="Arial, sans-serif">Critical Engagement</text>
 
-  <text x="500" y="70" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C">Agency, Voice,</text>
-  <text x="500" y="87" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C">& Authorship</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C" font-family="Arial, sans-serif">Agency, Voice,</text>
+  <text x="500" y="87" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C" font-family="Arial, sans-serif">& Authorship</text>
 
-  <text x="700" y="70" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C">Transparency Over</text>
-  <text x="700" y="87" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C">Surveillance</text>
+  <text x="700" y="70" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C" font-family="Arial, sans-serif">Transparency Over</text>
+  <text x="700" y="87" text-anchor="middle" font-size="13" font-weight="600" fill="#2C5F7C" font-family="Arial, sans-serif">Surveillance</text>
 
   <!-- Articles (Row Labels) -->
   <!-- Watkins & Monroe -->
-  <text x="30" y="135" font-size="12" fill="#333333">Watkins & Monroe (Introduction)</text>
+  <text x="30" y="135" font-size="12" fill="#333333" font-family="Arial, sans-serif">Watkins & Monroe (Introduction)</text>
   <circle cx="300" cy="130" r="12" fill="#4A9B8E"/>
   <circle cx="500" cy="130" r="12" fill="#4A9B8E"/>
   <circle cx="700" cy="130" r="12" fill="#4A9B8E"/>
 
   <!-- Li -->
-  <text x="30" y="180" font-size="12" fill="#333333">Li - Critiquing ChatGPT Compositions</text>
+  <text x="30" y="180" font-size="12" fill="#333333" font-family="Arial, sans-serif">Li - Critiquing ChatGPT Compositions</text>
   <circle cx="300" cy="175" r="12" fill="#4A9B8E"/>
   <circle cx="500" cy="175" r="12" fill="#4A9B8E"/>
   <circle cx="700" cy="175" r="8" fill="none" stroke="#4A9B8E" stroke-width="2"/>
 
   <!-- Blackwell-Starnes -->
-  <text x="30" y="225" font-size="12" fill="#333333">Blackwell-Starnes - "I Prefer My Own Writing"</text>
+  <text x="30" y="225" font-size="12" fill="#333333" font-family="Arial, sans-serif">Blackwell-Starnes - "I Prefer My Own Writing"</text>
   <circle cx="300" cy="220" r="12" fill="#4A9B8E"/>
   <circle cx="500" cy="220" r="12" fill="#4A9B8E"/>
   <circle cx="700" cy="220" r="12" fill="#4A9B8E"/>
 
   <!-- Ryan et al. -->
-  <text x="30" y="270" font-size="12" fill="#333333">Ryan et al. - Can AI Be a Co-Author?</text>
+  <text x="30" y="270" font-size="12" fill="#333333" font-family="Arial, sans-serif">Ryan et al. - Can AI Be a Co-Author?</text>
   <circle cx="300" cy="265" r="8" fill="none" stroke="#4A9B8E" stroke-width="2"/>
   <circle cx="500" cy="265" r="12" fill="#4A9B8E"/>
   <circle cx="700" cy="265" r="8" fill="none" stroke="#4A9B8E" stroke-width="2"/>
 
   <!-- Nelson et al. -->
-  <text x="30" y="315" font-size="12" fill="#333333">Nelson et al. - Collaborative Intelligence</text>
+  <text x="30" y="315" font-size="12" fill="#333333" font-family="Arial, sans-serif">Nelson et al. - Collaborative Intelligence</text>
   <circle cx="300" cy="310" r="12" fill="#4A9B8E"/>
   <circle cx="500" cy="310" r="8" fill="none" stroke="#4A9B8E" stroke-width="2"/>
   <circle cx="700" cy="310" r="12" fill="#4A9B8E"/>
 
   <!-- Velez et al. -->
-  <text x="30" y="360" font-size="12" fill="#333333">Velez et al. - Black Boxes Revisited</text>
+  <text x="30" y="360" font-size="12" fill="#333333" font-family="Arial, sans-serif">Velez et al. - Black Boxes Revisited</text>
   <circle cx="300" cy="355" r="12" fill="#4A9B8E"/>
   <circle cx="500" cy="355" r="4" fill="none" stroke="#4A9B8E" stroke-width="1.5"/>
   <circle cx="700" cy="355" r="12" fill="#4A9B8E"/>
 
   <!-- Krueger -->
-  <text x="30" y="405" font-size="12" fill="#333333">Krueger - Rhetorical Choices & Voice</text>
+  <text x="30" y="405" font-size="12" fill="#333333" font-family="Arial, sans-serif">Krueger - Rhetorical Choices & Voice</text>
   <circle cx="300" cy="400" r="12" fill="#4A9B8E"/>
   <circle cx="500" cy="400" r="12" fill="#4A9B8E"/>
   <circle cx="700" cy="400" r="8" fill="none" stroke="#4A9B8E" stroke-width="2"/>
 
   <!-- Uanachain & Aouad -->
-  <text x="30" y="450" font-size="12" fill="#333333">Uanachain & Aouad - Rethinking Learning</text>
+  <text x="30" y="450" font-size="12" fill="#333333" font-family="Arial, sans-serif">Uanachain & Aouad - Rethinking Learning</text>
   <circle cx="300" cy="445" r="8" fill="none" stroke="#4A9B8E" stroke-width="2"/>
   <circle cx="500" cy="445" r="12" fill="#4A9B8E"/>
   <circle cx="700" cy="445" r="12" fill="#4A9B8E"/>
 
   <!-- Legend -->
-  <text x="150" y="520" font-size="11" font-weight="600" fill="#2C5F7C">Legend:</text>
+  <text x="150" y="520" font-size="11" font-weight="600" fill="#2C5F7C" font-family="Arial, sans-serif">Legend:</text>
 
   <circle cx="250" cy="515" r="12" fill="#4A9B8E"/>
-  <text x="270" y="520" font-size="11" fill="#333333">Central focus of the article</text>
+  <text x="270" y="520" font-size="11" fill="#333333" font-family="Arial, sans-serif">Central focus of the article</text>
 
   <circle cx="470" cy="515" r="8" fill="none" stroke="#4A9B8E" stroke-width="2"/>
-  <text x="490" y="520" font-size="11" fill="#333333">Addressed in the article</text>
+  <text x="490" y="520" font-size="11" fill="#333333" font-family="Arial, sans-serif">Addressed in the article</text>
 
   <circle cx="680" cy="515" r="4" fill="none" stroke="#4A9B8E" stroke-width="1.5"/>
-  <text x="700" y="520" font-size="11" fill="#333333">Touches on briefly</text>
+  <text x="700" y="520" font-size="11" fill="#333333" font-family="Arial, sans-serif">Touches on briefly</text>
 
   <!-- Grid lines (subtle) -->
   <line x1="250" y1="100" x2="250" y2="470" stroke="#E8F3F1" stroke-width="1"/>
